@@ -1,0 +1,3 @@
+[submodule "springBootWithMongoDBFrontEnd"]
+	path = springBootWithMongoDBFrontEnd
+	url = ./src/main/resources/static/springBootWithMongoDBFrontEnd
